@@ -1,4 +1,4 @@
-/*
+
 import  {useState, useEffect, useRef} from 'react';
 
 function Stopwatch(){
@@ -61,4 +61,4 @@ function Stopwatch(){
         </div>
     );
 }
-export default Stopwatch*/
+export default Stopwatch
